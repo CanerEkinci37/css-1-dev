@@ -1,18 +1,21 @@
+/* Margin, padding ve font tüm elementler için ayarlandı */
 *{
     margin: 0px;
     padding: 0px;
     font-family: 'Roboto', sans-serif;
 }
 
-
+/* Liste maddelerini elemanların yanına çekme */
 ol, ul {
     list-style-position: inside;
 }
 
+/* Arkaplan rengi vermek */
 body {
     background-color: rgb(225, 254, 243);
 }
 
+/* Başlıklar için */
 h1 {
     font-size: 30px;
     color: rgb(33, 43, 92);
@@ -28,11 +31,13 @@ h3 {
     color: rgb(220, 168, 152);
 }
 
+/* Headerı ortalama */
 .header-ortala {
     text-align: center;
     padding-top: 20px;
 }
 
+/* Navigasyondaki linkleri yanyana dizme */
 .nav-yanyana {
     padding: 5px;
 }
@@ -43,6 +48,7 @@ h3 {
     list-style-type: none;
 }
 
+/* Article ortalama */
 .article-ortala {
     text-align: center;
 }
@@ -51,7 +57,7 @@ h3 {
     padding: 10px;
 }
 
-
+/* Padding verme */
 .padding-bot10px {
     padding-bottom: 10px;
 }
