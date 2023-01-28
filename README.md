@@ -1,2 +1,2 @@
-# css-1-dev
-1. CSS Ödevi
+# css1-odev
+## CSS 1.ODEV
