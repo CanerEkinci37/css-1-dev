@@ -1,1 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+ol, ul {
+    list-style-position: inside;
+}
+
+body {
+    background-color: rgb(225, 254, 243);
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(33, 43, 92);
+}
+
+h2 {
+    font-size: 24px;
+    color: rgb(167, 144, 49);
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(220, 168, 152);
+}
+
+.header-ortala {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.nav-yanyana {
+    padding: 5px;
+}
+
+.nav-yanyana>ul>li {
+    display: inline-block;
+    padding: 5px;
+    list-style-type: none;
+}
+
+.article-ortala {
+    text-align: center;
+}
+
+.article-ortala>ol>li {
+    padding: 10px;
+}
+
+
+.padding-bot10px {
+    padding-bottom: 10px;
+}
+
+.padding-left10px {
+    padding-left: 10px;
+}
 
